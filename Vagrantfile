@@ -9,6 +9,5 @@ Vagrant.configure(VAGRANTFILE_API_VERSION) do |config|
   config.vm.network "private_network", ip: "192.168.33.169"
   config.vm.box = "deepdream-working.box"
   config.vm.provision "shell",
-    inline: "mkdir -p /home/vagrant/sasi && cp /vagrant/deepdream.ipynb /home/vagrant/sasi/"
-  end
+    inline: "mkdir -p /home/vagrant/sasi && cp /vagrant/deepdream.ipynb /home/vagrant/sasi/ && chown -R vagrant:vagrant /home/vagrant"
 end
