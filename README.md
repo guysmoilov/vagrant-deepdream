@@ -19,7 +19,7 @@ Google deep dream, which uses Caffe machine learning framework, ATLAS BLAS, boos
 <br/>
 This is pretty much just a simple bootstrap to package up the above and get them running. I can't claim to even understand most of what those guys are talking about (yet!). Thanks for creating cool things.
 <br/>
-Uses Vagrant and Virtualbox to set up.
+Uses Vagrant and Virtualbox to set up. Box based on Ubuntu 14.04.
 <br/>
 Thanks to Max for challenging me to make this. The tiger picture in the example is the logo for his band, the Tigers of Pluto. [Check them out](https://www.facebook.com/tigersofpluto)
 
