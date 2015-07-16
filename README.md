@@ -28,4 +28,6 @@ Sorry if I forgot anyone\anything...
 ## License
 Do whatever you want. Try to be nice and give credit.
 <br/>
+I accept no responsibility for any harm that using this causes to you or your computer\data\relatives\pets. Nothing here should cause any damage, but use at your own risk.
+<br/>
 May the Schwartz be with you.
