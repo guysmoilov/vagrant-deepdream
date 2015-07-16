@@ -22,6 +22,8 @@ This is pretty much just a simple bootstrap to package up the above and get them
 Uses Vagrant and Virtualbox to set up. Box based on Ubuntu 14.04.
 <br/>
 Thanks to Max for challenging me to make this. The tiger picture in the example is the logo for his band, the Tigers of Pluto. [Check them out](https://www.facebook.com/tigersofpluto)
+<br/>
+Sorry if I forgot anyone\anything...
 
 ## License
 Do whatever you want. Try to be nice and give credit.
