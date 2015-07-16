@@ -7,7 +7,7 @@ The objective is to simplify the ability to create dreams for the unwashed masse
 ## Instructions
 
 1. Use a decent computer. Recommended at least 3GB ram. Don't try it on a Pentium 2 or something. Needs about 2.5 GB of hard drive space.
-2. Install [virtualbox](https://www.virtualbox.org/wiki/Downloads), [Cygwin](http://cygwin.com/install.html) and then [vagrant](http://www.vagrantup.com/downloads.html) on your computer.
+2. Install [virtualbox](https://www.virtualbox.org/wiki/Downloads), [msysgit](https://msysgit.github.io/) and then [vagrant](http://www.vagrantup.com/downloads.html) on your computer.
 3. [Download this repo to your computer](https://github.com/guysmoilov/vagrant-deepdream/archive/master.zip) and extract somewhere
 4. Put any image files you want to use in the images folder
 5. Double click on start-dream.bat (Potential linux users, I trust you to be capable enough to port this script)
