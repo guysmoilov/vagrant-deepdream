@@ -14,6 +14,11 @@ The objective is to simplify the ability to create dreams for the unwashed masse
 6. Wait patiently! About 2.5 GBs are downloaded now, a virtual machine is created, booted, and initialized, and the deep dream server is started. So give it time.
 7. Your browser should automatically open on the correct page, follow the instructions there.
 
+<br/><br/>
+IMPORTANT NOTE: If you want to delete the deep dream machine from your computer, first run the destroy-dream.bat script. Otherwise, a few GBs of space on your computer will never be deleted.
+<br/>
+IMPORTANT NOTE 2: Don't move the deep dream folder after you ran it once. It will stop working. If you want to move it, run destroy-dream.bat first.
+
 ## Credits
 Google deep dream, which uses Caffe machine learning framework, ATLAS BLAS, boost, Python\IPython and a bunch of other dependencies.
 <br/>
